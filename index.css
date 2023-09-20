@@ -116,7 +116,7 @@ button{
 }
 .main-head{
     position: fixed;
-    font-family: "poppins",sans-serif;
+    font-family:monospace,sans-serif;
     color: #fff;
     font-size: 80px;
     top: 10px;
